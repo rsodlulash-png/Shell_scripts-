@@ -1,0 +1,8 @@
+total 12
+-rw-r----- 1 root root   0 Jun  1 15:23 group_notes.txt
+-r--r--r-- 1 root root   0 Jun  1 15:23 notes_for_me.txt
+-rw-r--r-- 1 root root 342 Jun  1 15:24 permission_before.txt
+-rw-r--r-- 1 root root   0 Jun  1 15:33 permissions_after_symbolic.txt
+-rw------- 1 root root   0 Jun  1 15:23 private_notes.txt
+-rw-r--r-- 1 root root  19 Jun  1 15:17 README.md
+-rwxr-xr-x 1 root root 209 Jun  1 15:09 student.sh
